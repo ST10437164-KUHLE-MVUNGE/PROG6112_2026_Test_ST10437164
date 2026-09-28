@@ -8,6 +8,14 @@ package com.varsity.gamingconsolereport2;
  *
  * @author kuhle
  */
+/*
+ * programming 9th edition:
+ * Author: Joyce Farell
+ * Title: Joyce Farrell.
+ * Year: 2025
+ * URL:Java-Programming-9th-Edition.pdf  
+ */
+
 public class GamingConsoleReport2
 {
     public static void main(String[] args)
